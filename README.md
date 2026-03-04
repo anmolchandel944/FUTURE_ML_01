@@ -1,4 +1,4 @@
-# Sales Forecasting Machine Learning Project
+ # Sales Forecasting Machine Learning Project
 
 This project predicts future sales using historical data.
 
